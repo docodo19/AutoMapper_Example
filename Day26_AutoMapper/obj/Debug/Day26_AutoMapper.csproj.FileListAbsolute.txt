@@ -1,0 +1,8 @@
+c:\users\vaultrock\documents\visual studio 2015\Projects\Day26_AutoMapper\Day26_AutoMapper\bin\Debug\Day26_AutoMapper.exe.config
+c:\users\vaultrock\documents\visual studio 2015\Projects\Day26_AutoMapper\Day26_AutoMapper\bin\Debug\Day26_AutoMapper.exe
+c:\users\vaultrock\documents\visual studio 2015\Projects\Day26_AutoMapper\Day26_AutoMapper\bin\Debug\Day26_AutoMapper.pdb
+c:\users\vaultrock\documents\visual studio 2015\Projects\Day26_AutoMapper\Day26_AutoMapper\bin\Debug\AutoMapper.dll
+c:\users\vaultrock\documents\visual studio 2015\Projects\Day26_AutoMapper\Day26_AutoMapper\bin\Debug\AutoMapper.xml
+c:\users\vaultrock\documents\visual studio 2015\Projects\Day26_AutoMapper\Day26_AutoMapper\obj\Debug\Day26_AutoMapper.csprojResolveAssemblyReference.cache
+c:\users\vaultrock\documents\visual studio 2015\Projects\Day26_AutoMapper\Day26_AutoMapper\obj\Debug\Day26_AutoMapper.exe
+c:\users\vaultrock\documents\visual studio 2015\Projects\Day26_AutoMapper\Day26_AutoMapper\obj\Debug\Day26_AutoMapper.pdb
